@@ -1,0 +1,8 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+release/UptimeTray.exe
+UptimeTray.zip
+error.log
